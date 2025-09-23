@@ -1,24 +1,24 @@
-//colors
-$bodycolor           : #D24D57;
-$black           	 : #000;
-$white               : #fff;
-$color_gray          : #e8e8e8;
-$red                 : #FF4136;
-$maroon              : #85144b;
-$color_tuatara       : #383838;
-$color_shark         : #282828;
-$color_mischka       : #d0d1d5;
-$color_mercury       : #e5e6e9;
-$color_bon_jour      : #dfe0e4;
-$color_gallery       : #f0f0f0;
-$color_stack         : #8c8b8b;
-$color_alabaster     : #f9f9f9;
+$test                : #C64537;
+$bodycolor           : #C64537; // 
+$black           	 : #4A148C; // glow effect
+$white               : #222222; // body and menu background
+$color_gray          : #151515; // code snippet background
+$red                 : #9575CD;
+$maroon              : #9575CD;
+$color_tuatara       : #9575CD;
+$color_shark         : #9575CD; //main text colour
+$color_mischka       : #222222; // code outline colour and link underlines
+$color_mercury       : #222222; // box outline top
+$color_bon_jour      : #222222; //box outline sides
+$color_gallery       : #222222; //lines colour 1
+$color_stack         : #9575CD; //lines colour 2
+$color_alabaster     : #222222;
 $color_tundora       : #444;
 $color_fuscous_gray  : #555;
-$color_alabaster     : #fcfcfc;
-$color_celeste       : #ccc;
-$color_pink_swan     : #bbb;
-$comp-color 	     : complement(#222); 
+$color_alabaster     : #222222;
+$color_celeste       : #222222;
+$color_pink_swan     : #222222;
+$comp-color 	     : #9575CD; 
 
 //button colors
 $success			 : #5cb85c;
